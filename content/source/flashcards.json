@@ -1,0 +1,1082 @@
+[
+  {
+    "set": 1,
+    "num": 1,
+    "id": "s1q1",
+    "prompt": "Bicyclists must follow what basic rule?",
+    "answer": "Obey the same traffic rules as motor vehicles.",
+    "why": "Cyclists are road users and must follow traffic laws.",
+    "memory": "BIKE = SAME RULES"
+  },
+  {
+    "set": 1,
+    "num": 2,
+    "id": "s1q2",
+    "prompt": "Child safety seats are required for a child under what age?",
+    "answer": "5 years",
+    "why": "The questionnaire lists children under age 5.",
+    "memory": "UNDER 5 = SEAT"
+  },
+  {
+    "set": 1,
+    "num": 3,
+    "id": "s1q3",
+    "prompt": "What does the octagonal sign mean?",
+    "answer": "STOP",
+    "why": "The eight-sided shape is the stop sign.",
+    "memory": "OCTAGON = STOP"
+  },
+  {
+    "set": 1,
+    "num": 4,
+    "id": "s1q4",
+    "prompt": "Normally, the distance between you and the vehicle ahead should be at least:",
+    "answer": "3 seconds",
+    "why": "A time gap gives you room to react and stop.",
+    "memory": "3-SECOND GAP"
+  },
+  {
+    "set": 1,
+    "num": 5,
+    "id": "s1q5",
+    "prompt": "If you have a tire blowout, what should you do?",
+    "answer": "Do not brake; slow down and pull off the road.",
+    "why": "Hard braking can make the vehicle harder to control after a blowout.",
+    "memory": "BLOWOUT = NO BRAKE"
+  },
+  {
+    "set": 1,
+    "num": 6,
+    "id": "s1q6",
+    "prompt": "To make a left turn, which lane should you turn into?",
+    "answer": "Lane 1",
+    "why": "Use the lane corresponding to the proper turning path shown in the diagram.",
+    "memory": "LEFT = LEFT LANE"
+  },
+  {
+    "set": 1,
+    "num": 7,
+    "id": "s1q7",
+    "prompt": "It is illegal to park if a fire hydrant is within:",
+    "answer": "15 feet",
+    "why": "The questionnaire uses 15 feet as the minimum distance.",
+    "memory": "HYDRANT = 15 FT"
+  },
+  {
+    "set": 1,
+    "num": 8,
+    "id": "s1q8",
+    "prompt": "A person under 21 is 'under the influence' at what alcohol concentration?",
+    "answer": "Any amount",
+    "why": "The questionnaire's answer is any measurable amount.",
+    "memory": "UNDER 21 = ANY AMOUNT"
+  },
+  {
+    "set": 1,
+    "num": 9,
+    "id": "s1q9",
+    "prompt": "What does the school-shaped pedestrian sign mean?",
+    "answer": "School crossing",
+    "why": "The sign warns that children may be crossing.",
+    "memory": "SCHOOL SHAPE = SCHOOL"
+  },
+  {
+    "set": 1,
+    "num": 10,
+    "id": "s1q10",
+    "prompt": "When is a right turn on red allowed?",
+    "answer": "Unless prohibited by a sign",
+    "why": "Stop first, then turn when allowed and safe.",
+    "memory": "RED + RIGHT = OK UNLESS POSTED"
+  },
+  {
+    "set": 1,
+    "num": 11,
+    "id": "s1q11",
+    "prompt": "When is it safe to return to your lane after passing?",
+    "answer": "When you can see both headlights of the vehicle in your inside rearview mirror.",
+    "why": "That visual cue shows enough separation from the passed vehicle.",
+    "memory": "SEE BOTH HEADLIGHTS"
+  },
+  {
+    "set": 1,
+    "num": 12,
+    "id": "s1q12",
+    "prompt": "A school bus with flashing lights has stopped on a divided highway. Who must stop?",
+    "answer": "Traffic traveling in the same direction as the bus.",
+    "why": "The divided-road setup changes which traffic must stop.",
+    "memory": "DIVIDED ROAD = SAME DIRECTION"
+  },
+  {
+    "set": 1,
+    "num": 13,
+    "id": "s1q13",
+    "prompt": "What does a flashing yellow light at an intersection mean?",
+    "answer": "Slow down, check for traffic, then proceed with caution.",
+    "why": "Flashing yellow calls for caution rather than a full stop.",
+    "memory": "FLASHING YELLOW = SLOW"
+  },
+  {
+    "set": 1,
+    "num": 14,
+    "id": "s1q14",
+    "prompt": "If parking uphill with no curb, how should you position the wheels?",
+    "answer": "Turn the wheels to the right, toward the edge of the road.",
+    "why": "The vehicle should roll away from traffic if it moves.",
+    "memory": "NO CURB = WHEELS RIGHT"
+  },
+  {
+    "set": 1,
+    "num": 15,
+    "id": "s1q15",
+    "prompt": "When approaching a school bus picking up or dropping off children, what must you do?",
+    "answer": "Stop until the bus is moving or the stop-sign arm is no longer extended.",
+    "why": "The extended stop arm controls traffic around the bus.",
+    "memory": "BUS ARM OUT = STOP"
+  },
+  {
+    "set": 1,
+    "num": 16,
+    "id": "s1q16",
+    "prompt": "What does the divided-highway-begins sign mean?",
+    "answer": "Divided highway begins",
+    "why": "The sign warns that opposing traffic will be separated.",
+    "memory": "DIVIDED HIGHWAY STARTS"
+  },
+  {
+    "set": 1,
+    "num": 17,
+    "id": "s1q17",
+    "prompt": "Normally, the distance between you and the vehicle ahead should be:",
+    "answer": "3 seconds",
+    "why": "The questionnaire repeats the three-second rule.",
+    "memory": "3-SECOND GAP"
+  },
+  {
+    "set": 1,
+    "num": 18,
+    "id": "s1q18",
+    "prompt": "What does a broken white line in the middle of the road mean?",
+    "answer": "Traffic on both sides is moving in the same direction.",
+    "why": "White lane lines separate same-direction traffic.",
+    "memory": "WHITE = SAME DIRECTION"
+  },
+  {
+    "set": 1,
+    "num": 19,
+    "id": "s1q19",
+    "prompt": "What does the horizontal arm hand signal mean?",
+    "answer": "Left turn",
+    "why": "An arm extended straight out indicates a left turn.",
+    "memory": "ARM STRAIGHT OUT = LEFT"
+  },
+  {
+    "set": 1,
+    "num": 20,
+    "id": "s1q20",
+    "prompt": "In a severe dust storm, what should you do?",
+    "answer": "Reduce speed and pull off the road.",
+    "why": "Visibility can disappear quickly, so get out of the travel lane safely.",
+    "memory": "DUST = SLOW + OFF ROAD"
+  },
+  {
+    "set": 1,
+    "num": 21,
+    "id": "s1q21",
+    "prompt": "When backing, where should you look?",
+    "answer": "Turn and look out the rear window.",
+    "why": "Direct vision behind the vehicle is the key check while backing.",
+    "memory": "BACKING = LOOK BACK"
+  },
+  {
+    "set": 1,
+    "num": 22,
+    "id": "s1q22",
+    "prompt": "What does the lane-ending sign mean?",
+    "answer": "Lane ends",
+    "why": "The sign warns that a lane is ending or merging.",
+    "memory": "LANE ENDS = MERGE"
+  },
+  {
+    "set": 1,
+    "num": 23,
+    "id": "s1q23",
+    "prompt": "If parking uphill with a curb, which way should the wheels point?",
+    "answer": "Left, away from the curb.",
+    "why": "The questionnaire uses the uphill-with-curb rule shown.",
+    "memory": "UPHILL + CURB = LEFT"
+  },
+  {
+    "set": 1,
+    "num": 24,
+    "id": "s1q24",
+    "prompt": "A wheelchair symbol in a parking space means the space is reserved:",
+    "answer": "With no exceptions",
+    "why": "It is reserved for disabled persons.",
+    "memory": "ACCESSIBLE SPACE = DON'T USE"
+  },
+  {
+    "set": 1,
+    "num": 25,
+    "id": "s1q25",
+    "prompt": "The white car turns left and the black car goes straight. Which has the right-of-way?",
+    "answer": "Black car",
+    "why": "The straight-through vehicle has priority in the illustrated situation.",
+    "memory": "STRAIGHT = PRIORITY"
+  },
+  {
+    "set": 1,
+    "num": 26,
+    "id": "s1q26",
+    "prompt": "Bicyclists must:",
+    "answer": "Obey the same traffic laws as motor vehicles.",
+    "why": "This repeats the bicycle rule.",
+    "memory": "BIKE = SAME RULES"
+  },
+  {
+    "set": 1,
+    "num": 27,
+    "id": "s1q27",
+    "prompt": "What does a flashing red traffic light mean?",
+    "answer": "Stop, check for traffic, then proceed with caution.",
+    "why": "Flashing red is treated like a stop.",
+    "memory": "FLASHING RED = STOP"
+  },
+  {
+    "set": 1,
+    "num": 28,
+    "id": "s1q28",
+    "prompt": "What does the pennant-shaped sign mean?",
+    "answer": "No passing zone",
+    "why": "The triangular pennant warns of a no-passing zone.",
+    "memory": "PENNANT = NO PASS"
+  },
+  {
+    "set": 1,
+    "num": 29,
+    "id": "s1q29",
+    "prompt": "When changing lanes, after checking mirrors, what should you do?",
+    "answer": "Turn your head and look over your shoulder.",
+    "why": "This checks the blind spot that mirrors may miss.",
+    "memory": "LANE CHANGE = SHOULDER CHECK"
+  },
+  {
+    "set": 1,
+    "num": 30,
+    "id": "s1q30",
+    "prompt": "If you are involved in an accident with injuries, what must you do?",
+    "answer": "Remain at the scene of the accident.",
+    "why": "Do not leave the scene after an injury crash.",
+    "memory": "INJURY CRASH = STAY"
+  },
+  {
+    "set": 2,
+    "num": 1,
+    "id": "s2q1",
+    "prompt": "You must notify the Motor Vehicle Division of a change of address within:",
+    "answer": "10 days",
+    "why": "The questionnaire repeatedly lists 10 days.",
+    "memory": "ADDRESS = 10 DAYS"
+  },
+  {
+    "set": 2,
+    "num": 2,
+    "id": "s2q2",
+    "prompt": "The speed limit approaching a school crosswalk is:",
+    "answer": "20 mph",
+    "why": "The questionnaire uses 20 mph for this question.",
+    "memory": "SCHOOL CROSSWALK = 20"
+  },
+  {
+    "set": 2,
+    "num": 3,
+    "id": "s2q3",
+    "prompt": "What does the slippery-road sign mean?",
+    "answer": "Slippery when wet",
+    "why": "The winding tire tracks warn of reduced traction.",
+    "memory": "WAVY TIRES = SLIPPERY"
+  },
+  {
+    "set": 2,
+    "num": 4,
+    "id": "s2q4",
+    "prompt": "A school bus is stopped on a four-lane road with its stop arm extended. What must you do?",
+    "answer": "Stop regardless of your direction of travel.",
+    "why": "The questionnaire's marked answer treats this four-lane setup as requiring traffic to stop.",
+    "memory": "4-LANE + BUS = STOP"
+  },
+  {
+    "set": 2,
+    "num": 5,
+    "id": "s2q5",
+    "prompt": "When following a vehicle at night, lower high beams when you are within:",
+    "answer": "200 feet",
+    "why": "This is the following-distance value shown in the questionnaire.",
+    "memory": "FOLLOWING = 200 FT"
+  },
+  {
+    "set": 2,
+    "num": 6,
+    "id": "s2q6",
+    "prompt": "Three cars arrive at an uncontrolled intersection at the same time. Which has the right-of-way?",
+    "answer": "Car 3",
+    "why": "In the illustrated diagram, Car 3 is the answer indicated by the test.",
+    "memory": "DIAGRAM: CAR 3"
+  },
+  {
+    "set": 2,
+    "num": 7,
+    "id": "s2q7",
+    "prompt": "What does Implied Consent require?",
+    "answer": "Agree to be tested for alcohol and drugs by a law enforcement officer.",
+    "why": "Driving carries the implied-consent requirement described in the questionnaire.",
+    "memory": "IMPLIED CONSENT = TEST"
+  },
+  {
+    "set": 2,
+    "num": 8,
+    "id": "s2q8",
+    "prompt": "If you are in the right lane of a freeway and see a vehicle about to enter, what should you do?",
+    "answer": "Move left one lane.",
+    "why": "This leaves room for entering traffic when safe.",
+    "memory": "FREEWAY MERGE = MOVE LEFT"
+  },
+  {
+    "set": 2,
+    "num": 9,
+    "id": "s2q9",
+    "prompt": "What does the rectangular sign shape indicate here?",
+    "answer": "Speed and direction regulation",
+    "why": "The questionnaire pairs this shape with regulatory information.",
+    "memory": "RECTANGLE = REGULATORY INFO"
+  },
+  {
+    "set": 2,
+    "num": 10,
+    "id": "s2q10",
+    "prompt": "To avoid glare from oncoming headlights, where should you focus?",
+    "answer": "On the side of the road.",
+    "why": "Looking away from the glare helps maintain control and lane position.",
+    "memory": "GLARE = SIDE OF ROAD"
+  },
+  {
+    "set": 2,
+    "num": 11,
+    "id": "s2q11",
+    "prompt": "If your vehicle begins to hydroplane, what should you do?",
+    "answer": "Release the accelerator.",
+    "why": "Reducing power helps the tires regain traction.",
+    "memory": "HYDROPLANE = LIFT"
+  },
+  {
+    "set": 2,
+    "num": 12,
+    "id": "s2q12",
+    "prompt": "In the illustrated traffic diagram, if you are in the black car, which car is most difficult to see?",
+    "answer": "Car 2",
+    "why": "The test's diagram identifies Car 2 as the difficult-to-see vehicle.",
+    "memory": "DIAGRAM = CAR 2"
+  },
+  {
+    "set": 2,
+    "num": 13,
+    "id": "s2q13",
+    "prompt": "A red-painted curb means you may:",
+    "answer": "Not stop, stand or park.",
+    "why": "Red curb means no stopping, standing, or parking.",
+    "memory": "RED CURB = NO STOP"
+  },
+  {
+    "set": 2,
+    "num": 14,
+    "id": "s2q14",
+    "prompt": "A green lighted arrow means you may:",
+    "answer": "Turn in the direction of the arrow without stopping.",
+    "why": "A green arrow gives a protected movement in that direction, subject to safety.",
+    "memory": "GREEN ARROW = GO THAT WAY"
+  },
+  {
+    "set": 2,
+    "num": 15,
+    "id": "s2q15",
+    "prompt": "Leave enough space between you and the vehicle directly in front so:",
+    "answer": "The other driver can see both your headlights in the rearview mirror.",
+    "why": "That visual cue helps maintain a safe following position.",
+    "memory": "HEADLIGHTS VISIBLE = SPACE"
+  },
+  {
+    "set": 2,
+    "num": 16,
+    "id": "s2q16",
+    "prompt": "What does a diamond-shaped sign mean?",
+    "answer": "Warning",
+    "why": "Diamond signs are warning signs.",
+    "memory": "DIAMOND = WARNING"
+  },
+  {
+    "set": 2,
+    "num": 17,
+    "id": "s2q17",
+    "prompt": "If a lighted turn arrow just changed to yellow, when may you turn?",
+    "answer": "Only if you can clear the intersection before the light changes to red.",
+    "why": "The questionnaire emphasizes clearing the intersection safely.",
+    "memory": "YELLOW ARROW = CLEAR IT"
+  },
+  {
+    "set": 2,
+    "num": 18,
+    "id": "s2q18",
+    "prompt": "Unless prohibited by a sign, a left turn on red is permitted from:",
+    "answer": "A one-way road to a one-way road.",
+    "why": "This is the specific movement listed in the questionnaire.",
+    "memory": "LEFT ON RED = ONE-WAY \u2192 ONE-WAY"
+  },
+  {
+    "set": 2,
+    "num": 19,
+    "id": "s2q19",
+    "prompt": "What does the no-U-turn sign mean?",
+    "answer": "U-turn is not permitted.",
+    "why": "The crossed U-turn symbol prohibits that maneuver.",
+    "memory": "CROSSED U = NO U-TURN"
+  },
+  {
+    "set": 2,
+    "num": 20,
+    "id": "s2q20",
+    "prompt": "A broken yellow line in the middle of the road means:",
+    "answer": "Passing is permitted in either direction.",
+    "why": "A broken center line indicates passing is allowed when safe.",
+    "memory": "BROKEN YELLOW = PASS"
+  },
+  {
+    "set": 2,
+    "num": 21,
+    "id": "s2q21",
+    "prompt": "When you see or hear an emergency vehicle approaching, what should you do?",
+    "answer": "Immediately drive to the right side of the road and stop.",
+    "why": "Yield the roadway so the emergency vehicle can pass.",
+    "memory": "EMERGENCY = RIGHT + STOP"
+  },
+  {
+    "set": 2,
+    "num": 22,
+    "id": "s2q22",
+    "prompt": "What does the downward/angled arm hand signal mean?",
+    "answer": "Stopping or slowing down.",
+    "why": "This is the standard hand signal for slowing or stopping.",
+    "memory": "ARM DOWN = SLOW/STOP"
+  },
+  {
+    "set": 2,
+    "num": 23,
+    "id": "s2q23",
+    "prompt": "You should give the right-of-way to a pedestrian who is:",
+    "answer": "In any crosswalk or intersection.",
+    "why": "The questionnaire's best answer is the broader crossing situation.",
+    "memory": "PEDESTRIAN = YIELD"
+  },
+  {
+    "set": 2,
+    "num": 24,
+    "id": "s2q24",
+    "prompt": "When driving on wet roads, you should:",
+    "answer": "Reduce your speed by at least one third.",
+    "why": "Wet pavement reduces traction and increases stopping distance.",
+    "memory": "WET = SLOW 1/3"
+  },
+  {
+    "set": 2,
+    "num": 25,
+    "id": "s2q25",
+    "prompt": "What does the school-crossing sign mean?",
+    "answer": "School crossing",
+    "why": "The schoolhouse-shaped warning sign indicates a school crossing.",
+    "memory": "SCHOOLHOUSE = CROSSING"
+  },
+  {
+    "set": 2,
+    "num": 26,
+    "id": "s2q26",
+    "prompt": "Before entering a road from an alley or driveway, you must:",
+    "answer": "Stop before reaching the sidewalk.",
+    "why": "Stop and check before crossing the sidewalk area.",
+    "memory": "DRIVEWAY = STOP FIRST"
+  },
+  {
+    "set": 2,
+    "num": 27,
+    "id": "s2q27",
+    "prompt": "When backing, you should:",
+    "answer": "Turn and look out the rear window.",
+    "why": "Directly look where the vehicle is moving.",
+    "memory": "BACKING = REAR WINDOW"
+  },
+  {
+    "set": 2,
+    "num": 28,
+    "id": "s2q28",
+    "prompt": "Which car made the correct turn in the illustrated diagram?",
+    "answer": "Car 2",
+    "why": "The test diagram indicates Car 2.",
+    "memory": "DIAGRAM = CAR 2"
+  },
+  {
+    "set": 2,
+    "num": 29,
+    "id": "s2q29",
+    "prompt": "If parking uphill with a curb, where should the wheels point?",
+    "answer": "Left, away from the curb.",
+    "why": "This is the uphill-with-curb rule used in the questionnaire.",
+    "memory": "UPHILL + CURB = LEFT"
+  },
+  {
+    "set": 2,
+    "num": 30,
+    "id": "s2q30",
+    "prompt": "Bicyclists should:",
+    "answer": "Obey the same traffic laws as motor vehicles.",
+    "why": "This repeats the bicycle rule from the questionnaire.",
+    "memory": "BIKE = SAME RULES"
+  },
+  {
+    "set": 3,
+    "num": 1,
+    "id": "s3q1",
+    "prompt": "When no speed limit is posted, the maximum speed in a business or residential area is:",
+    "answer": "25 mph",
+    "why": "The questionnaire lists 25 mph as the answer.",
+    "memory": "UNPOSTED BUSINESS/RESIDENTIAL = 25"
+  },
+  {
+    "set": 3,
+    "num": 2,
+    "id": "s3q2",
+    "prompt": "Child safety seats are required if the child is under age:",
+    "answer": "5 years",
+    "why": "This question repeats the under-five rule in the questionnaire.",
+    "memory": "UNDER 5 = SEAT"
+  },
+  {
+    "set": 3,
+    "num": 3,
+    "id": "s3q3",
+    "prompt": "What does the sign showing the divided roadway ending mean?",
+    "answer": "Divided highway ends",
+    "why": "The arrows come together, warning the divided road is ending.",
+    "memory": "DIVIDED HIGHWAY = ENDS"
+  },
+  {
+    "set": 3,
+    "num": 4,
+    "id": "s3q4",
+    "prompt": "You must notify the Motor Vehicle Division of a change of address within:",
+    "answer": "10 days",
+    "why": "This is repeated several times.",
+    "memory": "ADDRESS = 10 DAYS"
+  },
+  {
+    "set": 3,
+    "num": 5,
+    "id": "s3q5",
+    "prompt": "A flashing red traffic light at an intersection means:",
+    "answer": "Same as a stop sign.",
+    "why": "Treat the flashing red as a stop, then proceed when safe.",
+    "memory": "FLASHING RED = STOP"
+  },
+  {
+    "set": 3,
+    "num": 6,
+    "id": "s3q6",
+    "prompt": "What is the correct lane for the car to complete the left turn?",
+    "answer": "Lane 2",
+    "why": "The test diagram marks Lane 2 for the illustrated vehicle.",
+    "memory": "DIAGRAM = LANE 2"
+  },
+  {
+    "set": 3,
+    "num": 7,
+    "id": "s3q7",
+    "prompt": "When changing lanes, check mirrors and also:",
+    "answer": "Turn your head quickly and look over your shoulder.",
+    "why": "This checks the blind spot.",
+    "memory": "LANE CHANGE = SHOULDER"
+  },
+  {
+    "set": 3,
+    "num": 8,
+    "id": "s3q8",
+    "prompt": "Why avoid the right lane of a freeway during rush hour?",
+    "answer": "To leave room for vehicles entering and exiting.",
+    "why": "The right lane is where merging and exiting traffic is concentrated.",
+    "memory": "RIGHT LANE = MERGING"
+  },
+  {
+    "set": 3,
+    "num": 9,
+    "id": "s3q9",
+    "prompt": "What does the diamond-shaped sign mean?",
+    "answer": "Warning",
+    "why": "Diamond is the warning-sign shape.",
+    "memory": "DIAMOND = WARNING"
+  },
+  {
+    "set": 3,
+    "num": 10,
+    "id": "s3q10",
+    "prompt": "When should you switch to low beams for oncoming traffic?",
+    "answer": "Within 500 feet.",
+    "why": "This is the distance listed in the questionnaire.",
+    "memory": "ONCOMING = 500 FT"
+  },
+  {
+    "set": 3,
+    "num": 11,
+    "id": "s3q11",
+    "prompt": "If you intend to turn beyond an intersection, when should you signal?",
+    "answer": "Signal your turn as you approach the intersection.",
+    "why": "Signal before reaching the intersection rather than waiting until you are inside it.",
+    "memory": "TURN BEYOND = SIGNAL BEFORE"
+  },
+  {
+    "set": 3,
+    "num": 12,
+    "id": "s3q12",
+    "prompt": "In the illustrated situation, the black car should:",
+    "answer": "Slow down.",
+    "why": "The test diagram indicates slowing down as the safest response.",
+    "memory": "BLACK CAR = SLOW"
+  },
+  {
+    "set": 3,
+    "num": 13,
+    "id": "s3q13",
+    "prompt": "A yellow line in the middle of the road means:",
+    "answer": "Two-way traffic.",
+    "why": "Yellow center lines separate opposing directions.",
+    "memory": "YELLOW CENTER = OPPOSING"
+  },
+  {
+    "set": 3,
+    "num": 14,
+    "id": "s3q14",
+    "prompt": "It is illegal to follow fire or other emergency vehicles within:",
+    "answer": "500 feet.",
+    "why": "The questionnaire lists 500 feet.",
+    "memory": "EMERGENCY FOLLOW = 500 FT"
+  },
+  {
+    "set": 3,
+    "num": 15,
+    "id": "s3q15",
+    "prompt": "If you intend to turn beyond an intersection, you should:",
+    "answer": "Signal your turn as you approach the intersection.",
+    "why": "This repeats the signaling rule.",
+    "memory": "SIGNAL BEFORE INTERSECTION"
+  },
+  {
+    "set": 3,
+    "num": 16,
+    "id": "s3q16",
+    "prompt": "What does the sign showing a left arrow plus straight movement mean?",
+    "answer": "You may turn left or go straight.",
+    "why": "The sign shows permitted movements from that lane.",
+    "memory": "ARROW OPTIONS = LEFT OR STRAIGHT"
+  },
+  {
+    "set": 3,
+    "num": 17,
+    "id": "s3q17",
+    "prompt": "A red lighted arrow means:",
+    "answer": "Stop and wait for the arrow to change to green before turning.",
+    "why": "A red arrow prohibits the indicated movement until it changes.",
+    "memory": "RED ARROW = WAIT"
+  },
+  {
+    "set": 3,
+    "num": 18,
+    "id": "s3q18",
+    "prompt": "A double solid yellow line in the middle of the road means:",
+    "answer": "No passing in either direction.",
+    "why": "Double solid yellow indicates no passing across the center line.",
+    "memory": "DOUBLE YELLOW = NO PASS"
+  },
+  {
+    "set": 3,
+    "num": 19,
+    "id": "s3q19",
+    "prompt": "The white car turns left and the black car goes straight. Which has the right-of-way?",
+    "answer": "Black car",
+    "why": "In the illustrated situation, the straight-through vehicle has priority.",
+    "memory": "STRAIGHT = PRIORITY"
+  },
+  {
+    "set": 3,
+    "num": 20,
+    "id": "s3q20",
+    "prompt": "The basic color for road construction and maintenance signs is:",
+    "answer": "Orange",
+    "why": "Orange is the construction/maintenance warning color.",
+    "memory": "ORANGE = CONSTRUCTION"
+  },
+  {
+    "set": 3,
+    "num": 21,
+    "id": "s3q21",
+    "prompt": "You must notify the Motor Vehicle Division of a change of address within:",
+    "answer": "10 days",
+    "why": "Repeated questionnaire rule.",
+    "memory": "ADDRESS = 10 DAYS"
+  },
+  {
+    "set": 3,
+    "num": 22,
+    "id": "s3q22",
+    "prompt": "What does the upside-down triangle sign mean?",
+    "answer": "Yield right-of-way",
+    "why": "The triangle is the yield sign.",
+    "memory": "TRIANGLE = YIELD"
+  },
+  {
+    "set": 3,
+    "num": 23,
+    "id": "s3q23",
+    "prompt": "Leave enough space between you and the vehicle in front:",
+    "answer": "To allow for a sudden stop.",
+    "why": "Following distance creates reaction and stopping room.",
+    "memory": "SPACE = SUDDEN STOP"
+  },
+  {
+    "set": 3,
+    "num": 24,
+    "id": "s3q24",
+    "prompt": "When no speed limit is posted, the maximum speed in a business or residential area is:",
+    "answer": "25 mph",
+    "why": "Repeated questionnaire rule.",
+    "memory": "UNPOSTED = 25"
+  },
+  {
+    "set": 3,
+    "num": 25,
+    "id": "s3q25",
+    "prompt": "What does the hand signal mean?",
+    "answer": "Stopping or slowing down.",
+    "why": "The arm position shown is the slow/stop signal.",
+    "memory": "ARM DOWN = SLOW"
+  },
+  {
+    "set": 3,
+    "num": 26,
+    "id": "s3q26",
+    "prompt": "When you merge onto a freeway, you should be driving:",
+    "answer": "At the same speed as traffic in the right lane.",
+    "why": "Matching traffic speed reduces dangerous speed differences.",
+    "memory": "MERGE = MATCH SPEED"
+  },
+  {
+    "set": 3,
+    "num": 27,
+    "id": "s3q27",
+    "prompt": "The best way to bring a vehicle out of a skid is to:",
+    "answer": "Turn the wheel in the direction of the skid.",
+    "why": "Steer with the skid rather than fighting it.",
+    "memory": "SKID = STEER INTO IT"
+  },
+  {
+    "set": 3,
+    "num": 28,
+    "id": "s3q28",
+    "prompt": "What does the opposing-arrow sign mean?",
+    "answer": "Two-way traffic.",
+    "why": "The arrows show traffic moving in both directions.",
+    "memory": "OPPOSING ARROWS = TWO-WAY"
+  },
+  {
+    "set": 3,
+    "num": 29,
+    "id": "s3q29",
+    "prompt": "In a severe dust storm, you should:",
+    "answer": "Reduce speed and pull off the road.",
+    "why": "Get out of the travel lane safely when visibility becomes dangerous.",
+    "memory": "DUST = OFF ROAD"
+  },
+  {
+    "set": 3,
+    "num": 30,
+    "id": "s3q30",
+    "prompt": "If your view to the side is blocked at an intersection, you should:",
+    "answer": "Slow down and look both ways.",
+    "why": "Limited visibility means you need more caution and time.",
+    "memory": "BLOCKED VIEW = SLOW"
+  },
+  {
+    "set": 4,
+    "num": 1,
+    "id": "s4q1",
+    "prompt": "A traffic light has just changed to yellow. What does the questionnaire say?",
+    "answer": "Slow down and proceed with caution.",
+    "why": "This is the marked answer on the supplied questionnaire.",
+    "memory": "YELLOW = SLOW + CAUTION"
+  },
+  {
+    "set": 4,
+    "num": 2,
+    "id": "s4q2",
+    "prompt": "The speed limit approaching a school crosswalk is:",
+    "answer": "20 mph",
+    "why": "Repeated questionnaire rule.",
+    "memory": "SCHOOL = 20"
+  },
+  {
+    "set": 4,
+    "num": 3,
+    "id": "s4q3",
+    "prompt": "What does the circular sign with the turning arrow indicate?",
+    "answer": "Road turns sharply to the right.",
+    "why": "The illustrated sign warns of the sharp right turn.",
+    "memory": "ARROW BENDS = SHARP RIGHT"
+  },
+  {
+    "set": 4,
+    "num": 4,
+    "id": "s4q4",
+    "prompt": "If you have a tire blowout, what should you do?",
+    "answer": "Do not brake; slow down and pull off the road.",
+    "why": "Avoid abrupt braking after the blowout.",
+    "memory": "BLOWOUT = NO BRAKE"
+  },
+  {
+    "set": 4,
+    "num": 5,
+    "id": "s4q5",
+    "prompt": "If you drive in fog, you should turn on:",
+    "answer": "Low beam headlights.",
+    "why": "High beams can reflect back from fog and reduce visibility.",
+    "memory": "FOG = LOW BEAMS"
+  },
+  {
+    "set": 4,
+    "num": 6,
+    "id": "s4q6",
+    "prompt": "Which car made the correct turn in the illustrated diagram?",
+    "answer": "Car 3",
+    "why": "The supplied diagram marks Car 3.",
+    "memory": "DIAGRAM = CAR 3"
+  },
+  {
+    "set": 4,
+    "num": 7,
+    "id": "s4q7",
+    "prompt": "It is illegal to park if a crosswalk is within:",
+    "answer": "15 feet",
+    "why": "The questionnaire uses 15 feet for this question.",
+    "memory": "CROSSWALK = 15 FT"
+  },
+  {
+    "set": 4,
+    "num": 8,
+    "id": "s4q8",
+    "prompt": "Before entering a road from an alley or driveway, you must:",
+    "answer": "Stop before reaching the sidewalk.",
+    "why": "Stop and check before entering the roadway.",
+    "memory": "DRIVEWAY = STOP"
+  },
+  {
+    "set": 4,
+    "num": 9,
+    "id": "s4q9",
+    "prompt": "What does the diamond-shaped sign mean?",
+    "answer": "Warning",
+    "why": "Diamond is the warning shape.",
+    "memory": "DIAMOND = WARNING"
+  },
+  {
+    "set": 4,
+    "num": 10,
+    "id": "s4q10",
+    "prompt": "You should give the right-of-way to any pedestrian who is:",
+    "answer": "In a marked crosswalk.",
+    "why": "The questionnaire marks the marked-crosswalk answer for this version.",
+    "memory": "MARKED CROSSWALK = YIELD"
+  },
+  {
+    "set": 4,
+    "num": 11,
+    "id": "s4q11",
+    "prompt": "You must notify the Motor Vehicle Division of a change of address within:",
+    "answer": "10 days",
+    "why": "Repeated questionnaire rule.",
+    "memory": "ADDRESS = 10 DAYS"
+  },
+  {
+    "set": 4,
+    "num": 12,
+    "id": "s4q12",
+    "prompt": "The driver of the vehicle has a blind spot in which area?",
+    "answer": "Area 2",
+    "why": "The supplied diagram marks Area 2.",
+    "memory": "BLIND SPOT = AREA 2"
+  },
+  {
+    "set": 4,
+    "num": 13,
+    "id": "s4q13",
+    "prompt": "Before you turn, you must signal continuously for at least:",
+    "answer": "100 feet",
+    "why": "The questionnaire uses 100 feet.",
+    "memory": "TURN SIGNAL = 100 FT"
+  },
+  {
+    "set": 4,
+    "num": 14,
+    "id": "s4q14",
+    "prompt": "If your wheels lock when braking on an icy road, what should you do?",
+    "answer": "Ease off the brakes.",
+    "why": "Reducing brake pressure can help the wheels regain traction.",
+    "memory": "LOCKED WHEELS = EASE OFF"
+  },
+  {
+    "set": 4,
+    "num": 15,
+    "id": "s4q15",
+    "prompt": "What does the sign showing a left-turn prohibition mean?",
+    "answer": "No left turn permitted.",
+    "why": "The crossed left-turn symbol prohibits a left turn.",
+    "memory": "CROSSED LEFT ARROW = NO LEFT"
+  },
+  {
+    "set": 4,
+    "num": 16,
+    "id": "s4q16",
+    "prompt": "You should give the right-of-way to a pedestrian who is:",
+    "answer": "In any crosswalk or intersection.",
+    "why": "The questionnaire's answer is the broader crossing/intersection choice.",
+    "memory": "PEDESTRIAN = YIELD"
+  },
+  {
+    "set": 4,
+    "num": 17,
+    "id": "s4q17",
+    "prompt": "When approaching a school bus picking up or dropping off children, you must:",
+    "answer": "Stop until the bus is moving or the stop-sign arm is no longer extended.",
+    "why": "Wait until the bus restriction is cleared.",
+    "memory": "BUS ARM OUT = STOP"
+  },
+  {
+    "set": 4,
+    "num": 18,
+    "id": "s4q18",
+    "prompt": "What does the horizontal arm hand signal mean?",
+    "answer": "Left turn.",
+    "why": "Arm extended straight out signals a left turn.",
+    "memory": "ARM OUT = LEFT"
+  },
+  {
+    "set": 4,
+    "num": 19,
+    "id": "s4q19",
+    "prompt": "When is it safe to return to your lane after passing?",
+    "answer": "When you can see both headlights of the vehicle in your inside rearview mirror.",
+    "why": "That provides a visual gap from the vehicle you passed.",
+    "memory": "BOTH HEADLIGHTS = RETURN"
+  },
+  {
+    "set": 4,
+    "num": 20,
+    "id": "s4q20",
+    "prompt": "A broken yellow line beside a solid yellow line means:",
+    "answer": "You may pass if the broken line is on your side.",
+    "why": "The broken-line side is the side where passing is permitted when safe.",
+    "memory": "BROKEN LINE ON YOUR SIDE = PASS"
+  },
+  {
+    "set": 4,
+    "num": 21,
+    "id": "s4q21",
+    "prompt": "What does the upside-down triangle sign mean?",
+    "answer": "Yield right-of-way.",
+    "why": "Triangle = yield.",
+    "memory": "TRIANGLE = YIELD"
+  },
+  {
+    "set": 4,
+    "num": 22,
+    "id": "s4q22",
+    "prompt": "If you are involved in an accident with injuries, you must:",
+    "answer": "Remain at the scene of the accident.",
+    "why": "Stay at the scene after an injury crash.",
+    "memory": "INJURY CRASH = STAY"
+  },
+  {
+    "set": 4,
+    "num": 23,
+    "id": "s4q23",
+    "prompt": "If parking downhill, where should the wheels point?",
+    "answer": "Right, toward the edge of the road.",
+    "why": "The vehicle should roll toward the edge rather than into traffic if it moves.",
+    "memory": "DOWNHILL = RIGHT"
+  },
+  {
+    "set": 4,
+    "num": 24,
+    "id": "s4q24",
+    "prompt": "All three cars arrive at an uncontrolled intersection at the same time. Which has the right-of-way?",
+    "answer": "Car 3",
+    "why": "The supplied diagram indicates Car 3.",
+    "memory": "DIAGRAM = CAR 3"
+  },
+  {
+    "set": 4,
+    "num": 25,
+    "id": "s4q25",
+    "prompt": "The best way to bring a vehicle out of a skid is to stay off the brakes and:",
+    "answer": "Turn the wheel in the direction of the skid.",
+    "why": "Steering with the skid helps regain control.",
+    "memory": "SKID = STEER INTO IT"
+  },
+  {
+    "set": 4,
+    "num": 26,
+    "id": "s4q26",
+    "prompt": "To keep aware of traffic behind you, it is best to:",
+    "answer": "Check your rearview mirror often.",
+    "why": "Frequent mirror checks maintain awareness without turning around.",
+    "memory": "MIRROR = CHECK OFTEN"
+  },
+  {
+    "set": 4,
+    "num": 27,
+    "id": "s4q27",
+    "prompt": "What does the pedestrian-shaped diamond sign mean?",
+    "answer": "Pedestrian crossing.",
+    "why": "It warns that pedestrians may be crossing.",
+    "memory": "PEDESTRIAN SIGN = CROSSING"
+  },
+  {
+    "set": 4,
+    "num": 28,
+    "id": "s4q28",
+    "prompt": "When driving on wet roads, you should:",
+    "answer": "Reduce your speed by at least one third.",
+    "why": "Lower speed helps compensate for reduced traction.",
+    "memory": "WET = SLOW 1/3"
+  },
+  {
+    "set": 4,
+    "num": 29,
+    "id": "s4q29",
+    "prompt": "Before you make a turn, use your turn signals:",
+    "answer": "For at least 100 feet before the turn.",
+    "why": "This repeats the signaling rule in the questionnaire.",
+    "memory": "TURN = 100 FT"
+  },
+  {
+    "set": 4,
+    "num": 30,
+    "id": "s4q30",
+    "prompt": "Bicyclists should:",
+    "answer": "Obey the same traffic laws as motor vehicles.",
+    "why": "This repeats the bicycle rule.",
+    "memory": "BIKE = SAME RULES"
+  }
+]

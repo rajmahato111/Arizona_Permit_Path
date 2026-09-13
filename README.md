@@ -4,18 +4,18 @@ A calm, mobile-friendly study + practice-test app for the Arizona MVD instructio
 
 ## Features
 
-- **Study mode** — eight short topic lessons grounded in the Arizona Driver License Manual (ADOT MVD)
-- **Practice test** — 30 multiple-choice questions, optional 40-minute timer, **80% pass mark** (ADOT’s published threshold), review of missed answers with explanations
-- **Progress** — studied topics + quiz history stored in `localStorage`
-- **Arizona-forward UI** — Sonoran sky / canyon copper branding (not a generic purple dashboard)
+- **Study mode** — eight short lessons organized like the animated MVD permit study guide (memory map, signs, lights, lanes, parking, buses/ROW, weather/control, everyday rules)
+- **Practice test** — 30 multiple-choice questions from a ~100-item bank grounded in that guide, optional 40-minute timer, **80% pass mark**, review of missed answers with explanations
+- **Progress** — studied topics + quiz history in `localStorage`
+- **Arizona-forward UI** — Sonoran sky / canyon copper branding
 
 ## Source material
 
-The named upload `AZ_MVD_Permit_Test_Animated_Study_Guide_7539.pdf` was not available in this agent environment. Content is therefore taken from the official **Arizona Driver License Manual** (ADOT MVD, revised March 2026):
+Primary: **AZ MVD Permit Test Animated Study Guide** (120 animation-style flashcards from the operator questionnaire).
 
-https://apps.azdot.gov/files/mvd/mvd-forms-lib/99-0117.pdf
+Secondary: official **Arizona Driver License Manual** (ADOT MVD) where the flashcard guide is thin (for example permit ages and insurance minima).
 
-Practice items are **study aids based on that guide**, not official MVD exam questions. Always confirm current rules at [azdot.gov/mvd](https://azdot.gov/mvd).
+Practice items are **study-guide practice aids**, not official MVD exam questions. Confirm current rules at [azdot.gov/mvd](https://azdot.gov/mvd).
 
 ## Run locally
 

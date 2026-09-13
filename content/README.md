@@ -1,7 +1,8 @@
 # Content sources
 
-- Official Arizona Driver License Manual PDF (downloaded for extraction):
-  `content/source/az-driver-license-manual.pdf`
-- Extracted text: `content/source/manual.txt`
+Primary:
+- Project store PDF: `internal/AZ_MVD_Permit_Test_Animated_Study_Guide.pdf`
+- Extracted text / parsed cards: `content/source/animated-study-guide.txt`, `flashcards.json`, `practice-bank.json`
 
-The original task referenced an uploaded animated study guide that was not present in the environment. Lessons and practice questions were authored from the official manual so traffic rules stay accurate.
+Secondary (thin spots only):
+- Official Arizona Driver License Manual (ADOT MVD) for permit ages, Class G limits, insurance minima, Move Over details, etc.

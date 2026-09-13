@@ -13,4 +13,4 @@ export const EXAM_TIME_SECONDS = 40 * 60;
 export const STORAGE_KEY = "az-permit-path-v1";
 
 export const SOURCE_NOTE =
-  "Lessons and practice items are grounded in the Arizona Driver License Manual (ADOT MVD, revised March 2026). Practice questions are study aids based on that guide—not official exam items.";
+  "Lessons and practice items are grounded in the AZ MVD Permit Test Animated Study Guide (120 flashcards from the operator questionnaire). Where that guide is thin, a few supporting facts still cite the official ADOT Driver License Manual. Practice questions are study aids—not official MVD exam items.";

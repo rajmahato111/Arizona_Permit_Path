@@ -40,6 +40,5 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# large extracted source dumps
+# large source PDFs (extracted text/json may be committed)
 content/source/*.pdf
-content/source/*.txt
