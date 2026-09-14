@@ -32,15 +32,23 @@ npm run build && npx serve out
 
 ## GitHub Pages
 
-The app is a static export. GitHub Actions deploys to:
+Static export builds to `out/`. After the workflow runs, open:
 
 **https://rajmahato111.github.io/alfred/**
+
+One-time repo setup (required once):
+
+1. GitHub → **Settings → Pages**
+2. Set **Source** to **Deploy from a branch**
+3. Branch: **`gh-pages`** / folder: **`/`** → Save
+
+(Or Source = **GitHub Actions**, then re-run the workflow.)
 
 ```bash
 npm run build:pages
 ```
 
-Workflow: `.github/workflows/deploy-github-pages.yml` (runs on `main` and this feature branch).
+Workflow: `.github/workflows/deploy-github-pages.yml`
 
 ## Stack
 
