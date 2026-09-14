@@ -27,8 +27,20 @@ npm run dev
 Open [http://127.0.0.1:3000](http://127.0.0.1:3000).
 
 ```bash
-npm run build && npm start
+npm run build && npx serve out
 ```
+
+## GitHub Pages
+
+The app is a static export. GitHub Actions deploys to:
+
+**https://rajmahato111.github.io/alfred/**
+
+```bash
+npm run build:pages
+```
+
+Workflow: `.github/workflows/deploy-github-pages.yml` (runs on `main` and this feature branch).
 
 ## Stack
 

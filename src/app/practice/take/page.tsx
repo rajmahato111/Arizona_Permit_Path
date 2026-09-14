@@ -1,15 +1,12 @@
-import type { Metadata } from "next";
+"use client";
+
+import { Suspense } from "react";
+import { useSearchParams } from "next/navigation";
 import { QuizRunner } from "@/components/QuizRunner";
 
-export const metadata: Metadata = {
-  title: "Exam in progress",
-};
-
-type Props = { searchParams: Promise<{ timed?: string }> };
-
-export default async function PracticeTakePage({ searchParams }: Props) {
-  const params = await searchParams;
-  const timed = params.timed !== "0";
+function PracticeTakeInner() {
+  const searchParams = useSearchParams();
+  const timed = searchParams.get("timed") !== "0";
 
   return (
     <section className="section">
@@ -17,5 +14,21 @@ export default async function PracticeTakePage({ searchParams }: Props) {
         <QuizRunner timed={timed} />
       </div>
     </section>
+  );
+}
+
+export default function PracticeTakePage() {
+  return (
+    <Suspense
+      fallback={
+        <section className="section">
+          <div className="az-shell quiz-shell">
+            <p className="muted">Loading practice exam…</p>
+          </div>
+        </section>
+      }
+    >
+      <PracticeTakeInner />
+    </Suspense>
   );
 }
