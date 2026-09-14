@@ -1,12 +1,12 @@
 import type { NextConfig } from "next";
 
-const repo = process.env.GITHUB_REPOSITORY?.split("/")[1] ?? "arizona-permit-path";
+const repo = process.env.GITHUB_REPOSITORY?.split("/")[1] ?? "Arizona_Permit_Path";
 const isGithubPages = process.env.GITHUB_PAGES === "true";
 
 const nextConfig: NextConfig = {
   output: "export",
   images: { unoptimized: true },
-  // Project Pages URL: https://rajmahato111.github.io/arizona-permit-path/
+  // Project Pages URL: https://rajmahato111.github.io/Arizona_Permit_Path/
   ...(isGithubPages
     ? {
         basePath: `/${repo}`,

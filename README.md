@@ -34,7 +34,7 @@ npm run build && npx serve out
 
 Static export builds to `out/`. After the workflow runs, open:
 
-**https://rajmahato111.github.io/arizona-permit-path/**
+**https://rajmahato111.github.io/Arizona_Permit_Path/**
 
 One-time repo setup (required once):
 
